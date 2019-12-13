@@ -1,0 +1,11 @@
+1.Para inserir um novo "Objeto"
+  1.1 Tag status = "I" e id= 0.
+
+2.Para alterar um "Objeto"
+  2.1 Tag status = "A" e o id 
+      correspondente deve ser informado.
+
+2.Para excluir um "Objeto"
+  2.1 Tag status = "E" e o id 
+      correspondente deve ser informado.	  
+	
